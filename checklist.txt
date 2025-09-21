@@ -1,0 +1,5 @@
+Python version: 3.13.7
+Virtual environment active: Yes (venv is shown in terminal prompt)
+Django version: 5.2.6
+Runserver working: Yes (http://127.0.0.1:8000/ loads Home page successfully)
+Git remote set: Yes (verified with: git remote -v)
